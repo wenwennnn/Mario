@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "flower_move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5333333333333333,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a59d33c7-0019-4e0b-85a2-2dcf1bc9257b"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "13d6a2e7-75a5-4773-ba76-8048bed3599d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "a59d33c7-0019-4e0b-85a2-2dcf1bc9257b"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

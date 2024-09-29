@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "mario_jump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.21666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "1fa6e57d-2196-46b9-8fb4-d9d26055e65d"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "80662e48-fa23-4555-a20c-d175f3f29c66"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d4f4dee8-0912-45f7-9928-ddda49744b5b"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "1fa6e57d-2196-46b9-8fb4-d9d26055e65d"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "80662e48-fa23-4555-a20c-d175f3f29c66"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

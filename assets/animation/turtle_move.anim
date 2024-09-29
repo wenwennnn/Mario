@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "turtle_move",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 60,
+  "speed": 1.5,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "f2b31f5a-d4f3-44c5-b025-fe88e2b29693"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "6a242134-d37f-4d3f-b688-54f7e51f6ac4"
+            }
+          },
+          {
+            "frame": 0.65,
+            "value": {
+              "__uuid__": "f2b31f5a-d4f3-44c5-b025-fe88e2b29693"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
